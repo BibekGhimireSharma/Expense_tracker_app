@@ -1,4 +1,4 @@
-# 📱 Expense Tracker App (Flutter + REST API)
+# 📱 Expense Tracker App (Flutter)
 
 A modern **Expense Tracker mobile application** built using **Flutter** that allows users to manage daily expenses efficiently.
 The app performs **full CRUD operations** by interacting with a **RESTful backend API**, with a clean UI and real-world features.
@@ -121,3 +121,4 @@ lib/
 BTech CSE | Flutter & Full-Stack Development Enthusiast
 
 ---
+
